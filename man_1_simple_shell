@@ -1,17 +1,3 @@
-B.\"Manpage for simple shell 
-
-.\"Created by Barnaba Juma
-.TH HSH 1 "Nov 2023" "ALX" "SHELLEX - Simple Shell man page"
-
-.SH NAME
-hsh\fR \- simple UNIX command interpreter
-
-.SH SYNOPSIS
-soda\fR [\fIfilename\fR]
-
-.SH COPYRIGHT
-hsh is Copyright (C) 2023 by Barnaba juma
-
 .SH DESCRIPTION
 hsh\fR is a sh-compatible command language interpreter that executes commands read from the standard input or from a file.
 
